@@ -1,0 +1,14 @@
+BOT_TOKEN = "YOUR_TOKEN"
+
+ADMINS = [123456789]
+
+LOGGER_ID = -100XXXXXXXXX
+
+PAYMENT_UPI_ID = "yourupi@paytm"
+
+MONGO_URL = "YOUR_MONGO_URL"
+
+CHANNELS = {
+    "interfaith": -100123456,
+    "paid_links": -100456789
+}
